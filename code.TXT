@@ -1,3 +1,2 @@
 add get and set info method
 add print info method
-add print position method
